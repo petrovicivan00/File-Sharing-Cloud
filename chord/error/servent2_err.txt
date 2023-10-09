@@ -1,0 +1,7 @@
+00:00:01 - sent ask msg [cHashSp:55|sPort:localhost:1200|mId:21|mTxt:|mTyp:ASK_PULL|rPort:localhost:1400|cHashRp:60]
+00:00:01 - sent ask msg [cHashSp:55|sPort:localhost:1200|mId:22|mTxt:|mTyp:ASK_PULL|rPort:localhost:1400|cHashRp:60]
+00:00:01 - sent ask msg [cHashSp:55|sPort:localhost:1200|mId:23|mTxt:|mTyp:ASK_PULL|rPort:localhost:1400|cHashRp:60]
+USLI SMO U REMOVE LISTENER
+USLI SMO U REMOVE HANDLER
+Removed file fileTest1.txt
+SKLONILI SMO
